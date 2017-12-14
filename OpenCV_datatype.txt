@@ -1,0 +1,16 @@
+
+CV_8U：8-bit unsigned integers ( 0~255 )
+CV_8S：8-bit signed integers ( -128~127 )
+CV_16U：16-bit unsigned integers ( 0~65535 )                          
+CV_16S：16-bit signed integers ( -32768~32767 )                     
+CV_32S：32-bit signed integers ( -2147483648~2147483647 )  
+CV_32F：32-bit ﬂoating-point numbers
+CV_64F：64-bit ﬂoating-point numbers
+
+Mat_<uchar>  //CV_8U
+Mat_<char>   //CV_8S
+Mat_<ushort> //CV_16U
+Mat_<short>  //CV_16S
+Mat_<int>    //CV_32S
+Mat_<float>  //CV_32F
+Mat_<double> //CV_64F
